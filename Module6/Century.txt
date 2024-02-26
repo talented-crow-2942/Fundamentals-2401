@@ -1,0 +1,17 @@
+Enter the password you obtain for each level beside the level username:
+e.g. the password 'century1' was used to authenticate user 'century1' below
+century1/century1
+century2/
+century3/
+century4/
+century5/
+century6/
+century7/
+century8/
+century9/
+century10/
+century11/
+century12/
+century13/
+century14/
+century15/

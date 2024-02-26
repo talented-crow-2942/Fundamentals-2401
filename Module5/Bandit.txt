@@ -1,0 +1,18 @@
+Enter the password you obtain for each level beside the level username:
+e.g. the password 'bandit0' was used to authenticate user 'bandit0' below
+bandit0/bandit0
+bandit1/
+bandit2/
+bandit3/
+bandit4/
+bandit5/
+bandit6/
+bandit7/
+bandit8/
+bandit9/
+bandit10/
+bandit11/
+bandit12/
+bandit13/
+bandit14/
+bandit15/
